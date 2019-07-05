@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="Request" max_length="40" name="x_13141_galaxy_request" sizeclass="1" type="collection"/>
+</database>

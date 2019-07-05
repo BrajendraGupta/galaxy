@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-05 17:57:38</sys_created_on>
+        <sys_id>834a9c1cdbee33002d84f36f299619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_13141_galaxy_request.snc_internal</sys_name>
+        <sys_package display_value="Galaxy" source="x_13141_galaxy">65040ac0db6a33002d84f36f29961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Galaxy">65040ac0db6a33002d84f36f29961939</sys_scope>
+        <sys_security_acl display_value="x_13141_galaxy_request">3fa7d898dbee33002d84f36f2996199f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_834a9c1cdbee33002d84f36f299619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-05 17:57:38</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>834adc1cdbee33002d84f36f2996198e</transaction_id>
+    </sys_security_acl_role>
+</record_update>
